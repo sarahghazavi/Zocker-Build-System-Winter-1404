@@ -1,0 +1,48 @@
+# Compiled files
+*.o
+*.out
+*.exe
+*.so
+*.a
+
+# Build directories
+build/
+bin/
+obj/
+
+# Runtime data
+.zocker/
+zocker-data/
+images/
+layers/
+containers/
+cache/
+
+# Generated filesystem layers
+diff/
+work/
+merged/
+upper/
+lower/
+
+# Logs
+*.log
+
+# Core dumps
+core
+core.*
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+# Linux temporary files
+*~
+
+# Environment files
+.env
